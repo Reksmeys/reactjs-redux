@@ -6,7 +6,7 @@ import ArticleList from './components/ArticleList'
 function App() {
   return (
     <div className="App">
-      <ArticleList />
+      <h1>Welcome to React JS</h1>
     </div>
   );
 }
