@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>Welcome to React JS</h1>
+      <h1>I update it .....</h1>
     </div>
   );
 }
